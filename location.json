@@ -1,0 +1,1496 @@
+{
+    "data": [
+        {
+            "name": "AECS Layout , Brookefield",
+            "url": "/brookefield/aecs-layout"
+        },
+        {
+            "name": "Arekere",
+            "url": "/arekere"
+        },
+        {
+            "name": "Ashoknagar",
+            "url": "/ashoknagar"
+        },
+        {
+            "name": "Ashwath Nagar , HBR Layout",
+            "url": "/hbr-layout/ashwath-nagar"
+        },
+        {
+            "name": "Audugodi",
+            "url": "/audugodi"
+        },
+        {
+            "name": "Christ College Area",
+            "url": "/christ-college-area"
+        },
+        {
+            "name": "Museum Road , Ashoknagar",
+            "url": "/ashoknagar/museum-road"
+        },
+        {
+            "name": "Old Airport Road",
+            "url": "/old-airport-road"
+        },
+        {
+            "name": "Pattandur Agrahara , Whitefield",
+            "url": "/whitefield/pattandur-agrahara"
+        },
+        {
+            "name": "Sadashivnagar , Armane Nagar",
+            "url": "/armane-nagar/sadashivnagar"
+        },
+        {
+            "name": "Frazer Town",
+            "url": "/frazer-town"
+        },
+        {
+            "name": "Wheeler Road , Frazer Town",
+            "url": "/frazer-town/wheeler-road"
+        },
+        {
+            "name": "EGL",
+            "url": "/egl"
+        },
+        {
+            "name": "EPIP Zone , Whitefield",
+            "url": "/whitefield/epip-zone"
+        },
+        {
+            "name": "Egipura",
+            "url": "/egipura"
+        },
+        {
+            "name": "Electronic City",
+            "url": "/electronic-city"
+        },
+        {
+            "name": "Electronic City Phase 1 , Electronic City",
+            "url": "/electronic-city/electronic-city-phase-1"
+        },
+        {
+            "name": "Nandi Durga Road Extension , Jayamahal",
+            "url": "/jayamahal/nandi-durga-road-extension"
+        },
+        {
+            "name": "Byrasandra , C.V.Raman Nagar",
+            "url": "/c.v.raman-nagar/byrasandra"
+        },
+        {
+            "name": "C.V.Raman Nagar",
+            "url": "/c.v.raman-nagar"
+        },
+        {
+            "name": "CMH Road , Indiranagar",
+            "url": "/indiranagar/cmh-road"
+        },
+        {
+            "name": "Cambridge Layout , Jogupalya",
+            "url": "/jogupalya/cambridge-layout"
+        },
+        {
+            "name": "Chamrajpet",
+            "url": "/chamrajpet"
+        },
+        {
+            "name": "Chandra Layout",
+            "url": "/chandra-layout"
+        },
+        {
+            "name": "Christ College Area",
+            "url": "/christ-college-area"
+        },
+        {
+            "name": "Church Street",
+            "url": "/church-street"
+        },
+        {
+            "name": "Commercial Street",
+            "url": "/commercial-street"
+        },
+        {
+            "name": "Cox Town",
+            "url": "/cox-town"
+        },
+        {
+            "name": "Crescent Road",
+            "url": "/crescent-road"
+        },
+        {
+            "name": "Cubbonpet",
+            "url": "/cubbonpet"
+        },
+        {
+            "name": "Cunningham Road",
+            "url": "/cunningham-road"
+        },
+        {
+            "name": "Electronic City",
+            "url": "/electronic-city"
+        },
+        {
+            "name": "Electronic City Phase 1 , Electronic City",
+            "url": "/electronic-city/electronic-city-phase-1"
+        },
+        {
+            "name": "Lady Curzon Road",
+            "url": "/lady-curzon-road"
+        },
+        {
+            "name": "Nagavarapalya , C.V.Raman Nagar",
+            "url": "/c.v.raman-nagar/nagavarapalya"
+        },
+        {
+            "name": "Race Course Road",
+            "url": "/race-course-road"
+        },
+        {
+            "name": "West of Chord Road 2nd Stage , Nagapura",
+            "url": "/nagapura/west-of-chord-road-2nd-stage"
+        },
+        {
+            "name": "AECS Layout , Brookefield",
+            "url": "/brookefield/aecs-layout"
+        },
+        {
+            "name": "B Narayanapura , Mahadevapura",
+            "url": "/mahadevapura/b-narayanapura"
+        },
+        {
+            "name": "BSK II Stg , Banashankari",
+            "url": "/banashankari/bsk-ii-stg"
+        },
+        {
+            "name": "BTM",
+            "url": "/btm"
+        },
+        {
+            "name": "BTM 2nd Stage , BTM Layout 2nd Stage",
+            "url": "/btm-layout-2nd-stage/btm-2nd-stage"
+        },
+        {
+            "name": "BTM Layout 1st Stage , BTM",
+            "url": "/btm/btm-layout-1st-stage"
+        },
+        {
+            "name": "BTM Layout 2nd Stage , BTM",
+            "url": "/btm/btm-layout-2nd-stage"
+        },
+        {
+            "name": "Banashankari",
+            "url": "/banashankari"
+        },
+        {
+            "name": "Banashankari 3rd Stage , Banashankari",
+            "url": "/banashankari/banashankari-3rd-stage"
+        },
+        {
+            "name": "Banaswadi",
+            "url": "/banaswadi"
+        },
+        {
+            "name": "Bannerghatta",
+            "url": "/bannerghatta"
+        },
+        {
+            "name": "Bapuji Nagar",
+            "url": "/bapuji-nagar"
+        },
+        {
+            "name": "Basavangudi",
+            "url": "/basavangudi"
+        },
+        {
+            "name": "Basaveshwara Nagar",
+            "url": "/basaveshwara-nagar"
+        },
+        {
+            "name": "Basaveshwara Nagar , Basaveshwara Nagar",
+            "url": "/basaveshwara-nagar/basaveshwara-nagar"
+        },
+        {
+            "name": "Begur",
+            "url": "/begur"
+        },
+        {
+            "name": "Begur Koppa",
+            "url": "/begur-koppa"
+        },
+        {
+            "name": "Bellandur",
+            "url": "/bellandur"
+        },
+        {
+            "name": "Bilekahalli",
+            "url": "/bilekahalli"
+        },
+        {
+            "name": "Bommanahalli",
+            "url": "/bommanahalli"
+        },
+        {
+            "name": "Brookefield",
+            "url": "/brookefield"
+        },
+        {
+            "name": "Byrasandra , C.V.Raman Nagar",
+            "url": "/c.v.raman-nagar/byrasandra"
+        },
+        {
+            "name": "Dodda Banaswadi , Banaswadi",
+            "url": "/banaswadi/dodda-banaswadi"
+        },
+        {
+            "name": "Gandhibazar , Basavangudi",
+            "url": "/basavangudi/gandhibazar"
+        },
+        {
+            "name": "Jayanagar 3rd Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-3rd-block"
+        },
+        {
+            "name": "Jayanagar 4 Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-4-block"
+        },
+        {
+            "name": "Jayanagar 4th T Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-4th-t-block"
+        },
+        {
+            "name": "Jayanagar 5th Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-5th-block"
+        },
+        {
+            "name": "Jayanagara 9th Block , Jayanagar",
+            "url": "/jayanagar/jayanagara-9th-block"
+        },
+        {
+            "name": "Jeevan Bhima Nagar",
+            "url": "/jeevan-bhima-nagar"
+        },
+        {
+            "name": "Kasturi Nagar , Bennigana Halli",
+            "url": "/bennigana-halli/kasturi-nagar"
+        },
+        {
+            "name": "Kempapura , Bellandur",
+            "url": "/bellandur/kempapura"
+        },
+        {
+            "name": "Koramangala 1st Block , Koramangala",
+            "url": "/koramangala/koramangala-1st-block"
+        },
+        {
+            "name": "Koramangala 3rd Block , Koramangala",
+            "url": "/koramangala/koramangala-3rd-block"
+        },
+        {
+            "name": "Koramangala 4th Block , Koramangala",
+            "url": "/koramangala/koramangala-4th-block"
+        },
+        {
+            "name": "Koramangala 5th Block , Koramangala",
+            "url": "/koramangala/koramangala-5th-block"
+        },
+        {
+            "name": "Koramangala 6th Block , Koramangala",
+            "url": "/koramangala/koramangala-6th-block"
+        },
+        {
+            "name": "Koramangala 7th Block , Koramangala",
+            "url": "/koramangala/koramangala-7th-block"
+        },
+        {
+            "name": "Koramangala 8th Block , Koramangala",
+            "url": "/koramangala/koramangala-8th-block"
+        },
+        {
+            "name": "Kundalahalli , Brookefield",
+            "url": "/brookefield/kundalahalli"
+        },
+        {
+            "name": "Madivala , BTM Layout 1st Stage",
+            "url": "/btm-layout-1st-stage/madivala"
+        },
+        {
+            "name": "New BEL Road",
+            "url": "/new-bel-road"
+        },
+        {
+            "name": "Dodda Banaswadi , Banaswadi",
+            "url": "/banaswadi/dodda-banaswadi"
+        },
+        {
+            "name": "Doddanakundi",
+            "url": "/doddanakundi"
+        },
+        {
+            "name": "Domlur",
+            "url": "/domlur"
+        },
+        {
+            "name": "Dooravani Nagar",
+            "url": "/dooravani-nagar"
+        },
+        {
+            "name": "Nandi Durga Road Extension , Jayamahal",
+            "url": "/jayamahal/nandi-durga-road-extension"
+        },
+        {
+            "name": "AECS Layout , Brookefield",
+            "url": "/brookefield/aecs-layout"
+        },
+        {
+            "name": "Ashwath Nagar , HBR Layout",
+            "url": "/hbr-layout/ashwath-nagar"
+        },
+        {
+            "name": "BTM 2nd Stage , BTM Layout 2nd Stage",
+            "url": "/btm-layout-2nd-stage/btm-2nd-stage"
+        },
+        {
+            "name": "BTM Layout 1st Stage , BTM",
+            "url": "/btm/btm-layout-1st-stage"
+        },
+        {
+            "name": "BTM Layout 2nd Stage , BTM",
+            "url": "/btm/btm-layout-2nd-stage"
+        },
+        {
+            "name": "Cambridge Layout , Jogupalya",
+            "url": "/jogupalya/cambridge-layout"
+        },
+        {
+            "name": "Chandra Layout",
+            "url": "/chandra-layout"
+        },
+        {
+            "name": "HBR Layout",
+            "url": "/hbr-layout"
+        },
+        {
+            "name": "HBR Layout , Kalyan Nagar",
+            "url": "/kalyan-nagar/hbr-layout"
+        },
+        {
+            "name": "HRBR Layout",
+            "url": "/hrbr-layout"
+        },
+        {
+            "name": "HSR Layout",
+            "url": "/hsr-layout"
+        },
+        {
+            "name": "HSR Layout Sector 1 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-1"
+        },
+        {
+            "name": "HSR Layout Sector 2 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-2"
+        },
+        {
+            "name": "HSR Layout Sector 3 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-3"
+        },
+        {
+            "name": "HSR Layout Sector 4 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-4"
+        },
+        {
+            "name": "HSR Layout Sector 6 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-6"
+        },
+        {
+            "name": "HSR Layout Sector 7 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-7"
+        },
+        {
+            "name": "Jakkasandra , HSR Layout",
+            "url": "/hsr-layout/jakkasandra"
+        },
+        {
+            "name": "Koramangala Industrial Layout , Koramangala",
+            "url": "/koramangala/koramangala-industrial-layout"
+        },
+        {
+            "name": "Kumaraswamy Layout",
+            "url": "/kumaraswamy-layout"
+        },
+        {
+            "name": "Lady Curzon Road",
+            "url": "/lady-curzon-road"
+        },
+        {
+            "name": "Langford Town",
+            "url": "/langford-town"
+        },
+        {
+            "name": "Lavelle Road",
+            "url": "/lavelle-road"
+        },
+        {
+            "name": "Madivala , BTM Layout 1st Stage",
+            "url": "/btm-layout-1st-stage/madivala"
+        },
+        {
+            "name": "Cambridge Layout , Jogupalya",
+            "url": "/jogupalya/cambridge-layout"
+        },
+        {
+            "name": "JC Road",
+            "url": "/jc-road"
+        },
+        {
+            "name": "JP Nagar",
+            "url": "/jp-nagar"
+        },
+        {
+            "name": "JP Nagar Phase 1 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-1"
+        },
+        {
+            "name": "JP Nagar Phase 2 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-2"
+        },
+        {
+            "name": "JP Nagar Phase 3 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-3"
+        },
+        {
+            "name": "JP Nagar Phase 4 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-4"
+        },
+        {
+            "name": "JP Nagar Phase 5 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-5"
+        },
+        {
+            "name": "JP Nagar Phase 6 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-6"
+        },
+        {
+            "name": "JP Nagar Phase 7 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-7"
+        },
+        {
+            "name": "Jakkasandra , HSR Layout",
+            "url": "/hsr-layout/jakkasandra"
+        },
+        {
+            "name": "Jakkur",
+            "url": "/jakkur"
+        },
+        {
+            "name": "Jalahalli",
+            "url": "/jalahalli"
+        },
+        {
+            "name": "Jarganahalli , JP Nagar",
+            "url": "/jp-nagar/jarganahalli"
+        },
+        {
+            "name": "Jayamahal",
+            "url": "/jayamahal"
+        },
+        {
+            "name": "Jayanagar",
+            "url": "/jayanagar"
+        },
+        {
+            "name": "Jayanagar 3rd Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-3rd-block"
+        },
+        {
+            "name": "Jayanagar 4 Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-4-block"
+        },
+        {
+            "name": "Jayanagar 4th T Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-4th-t-block"
+        },
+        {
+            "name": "Jayanagar 5th Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-5th-block"
+        },
+        {
+            "name": "Jayanagara 9th Block , Jayanagar",
+            "url": "/jayanagar/jayanagara-9th-block"
+        },
+        {
+            "name": "Jeevan Bhima Nagar",
+            "url": "/jeevan-bhima-nagar"
+        },
+        {
+            "name": "Nandi Durga Road Extension , Jayamahal",
+            "url": "/jayamahal/nandi-durga-road-extension"
+        },
+        {
+            "name": "BSK II Stg , Banashankari",
+            "url": "/banashankari/bsk-ii-stg"
+        },
+        {
+            "name": "CMH Road , Indiranagar",
+            "url": "/indiranagar/cmh-road"
+        },
+        {
+            "name": "Hoysala Nagar , Indiranagar",
+            "url": "/indiranagar/hoysala-nagar"
+        },
+        {
+            "name": "ITPL , Whitefield",
+            "url": "/whitefield/itpl"
+        },
+        {
+            "name": "Indiranagar",
+            "url": "/indiranagar"
+        },
+        {
+            "name": "Infantry Road",
+            "url": "/infantry-road"
+        },
+        {
+            "name": "Koramangala Industrial Layout , Koramangala",
+            "url": "/koramangala/koramangala-industrial-layout"
+        },
+        {
+            "name": "Ashwath Nagar , HBR Layout",
+            "url": "/hbr-layout/ashwath-nagar"
+        },
+        {
+            "name": "HBR Layout",
+            "url": "/hbr-layout"
+        },
+        {
+            "name": "HBR Layout , Kalyan Nagar",
+            "url": "/kalyan-nagar/hbr-layout"
+        },
+        {
+            "name": "HRBR Layout",
+            "url": "/hrbr-layout"
+        },
+        {
+            "name": "HSR Layout",
+            "url": "/hsr-layout"
+        },
+        {
+            "name": "HSR Layout Sector 1 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-1"
+        },
+        {
+            "name": "HSR Layout Sector 2 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-2"
+        },
+        {
+            "name": "HSR Layout Sector 3 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-3"
+        },
+        {
+            "name": "HSR Layout Sector 4 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-4"
+        },
+        {
+            "name": "HSR Layout Sector 6 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-6"
+        },
+        {
+            "name": "HSR Layout Sector 7 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-7"
+        },
+        {
+            "name": "Hebbal",
+            "url": "/hebbal"
+        },
+        {
+            "name": "Hedgenagar",
+            "url": "/hedgenagar"
+        },
+        {
+            "name": "Hennur",
+            "url": "/hennur"
+        },
+        {
+            "name": "Hormavu",
+            "url": "/hormavu"
+        },
+        {
+            "name": "Hosakerehalli",
+            "url": "/hosakerehalli"
+        },
+        {
+            "name": "Hoysala Nagar , Indiranagar",
+            "url": "/indiranagar/hoysala-nagar"
+        },
+        {
+            "name": "Jakkasandra , HSR Layout",
+            "url": "/hsr-layout/jakkasandra"
+        },
+        {
+            "name": "Kasturi Nagar , Bennigana Halli",
+            "url": "/bennigana-halli/kasturi-nagar"
+        },
+        {
+            "name": "Begur Koppa",
+            "url": "/begur-koppa"
+        },
+        {
+            "name": "HBR Layout , Kalyan Nagar",
+            "url": "/kalyan-nagar/hbr-layout"
+        },
+        {
+            "name": "K.H(Double Road)",
+            "url": "/k.h(double-road)"
+        },
+        {
+            "name": "KR Puram",
+            "url": "/kr-puram"
+        },
+        {
+            "name": "Kadubisanahalli",
+            "url": "/kadubisanahalli"
+        },
+        {
+            "name": "Kadugodi",
+            "url": "/kadugodi"
+        },
+        {
+            "name": "Kadugodi , KR Puram",
+            "url": "/kr-puram/kadugodi"
+        },
+        {
+            "name": "Kaggadasapura",
+            "url": "/kaggadasapura"
+        },
+        {
+            "name": "Kalyan Nagar",
+            "url": "/kalyan-nagar"
+        },
+        {
+            "name": "Kammanahalli",
+            "url": "/kammanahalli"
+        },
+        {
+            "name": "Kanakapura Main Road",
+            "url": "/kanakapura-main-road"
+        },
+        {
+            "name": "Kasturi Nagar , Bennigana Halli",
+            "url": "/bennigana-halli/kasturi-nagar"
+        },
+        {
+            "name": "Kempapura , Bellandur",
+            "url": "/bellandur/kempapura"
+        },
+        {
+            "name": "Kengeri Satellite Town",
+            "url": "/kengeri-satellite-town"
+        },
+        {
+            "name": "Koramangala",
+            "url": "/koramangala"
+        },
+        {
+            "name": "Koramangala 1st Block , Koramangala",
+            "url": "/koramangala/koramangala-1st-block"
+        },
+        {
+            "name": "Koramangala 3rd Block , Koramangala",
+            "url": "/koramangala/koramangala-3rd-block"
+        },
+        {
+            "name": "Koramangala 4th Block , Koramangala",
+            "url": "/koramangala/koramangala-4th-block"
+        },
+        {
+            "name": "Koramangala 5th Block , Koramangala",
+            "url": "/koramangala/koramangala-5th-block"
+        },
+        {
+            "name": "Koramangala 6th Block , Koramangala",
+            "url": "/koramangala/koramangala-6th-block"
+        },
+        {
+            "name": "Koramangala 7th Block , Koramangala",
+            "url": "/koramangala/koramangala-7th-block"
+        },
+        {
+            "name": "Koramangala 8th Block , Koramangala",
+            "url": "/koramangala/koramangala-8th-block"
+        },
+        {
+            "name": "Koramangala Industrial Layout , Koramangala",
+            "url": "/koramangala/koramangala-industrial-layout"
+        },
+        {
+            "name": "Kothanur",
+            "url": "/kothanur"
+        },
+        {
+            "name": "Kumaraswamy Layout",
+            "url": "/kumaraswamy-layout"
+        },
+        {
+            "name": "Kundalahalli , Brookefield",
+            "url": "/brookefield/kundalahalli"
+        },
+        {
+            "name": "Malleshpalya , Kaggadasapura",
+            "url": "/kaggadasapura/malleshpalya"
+        },
+        {
+            "name": "Seegehalli , KR Puram",
+            "url": "/kr-puram/seegehalli"
+        },
+        {
+            "name": "Vignan Nagar , Kartik Nagar",
+            "url": "/kartik-nagar/vignan-nagar"
+        },
+        {
+            "name": "Old Airport Road",
+            "url": "/old-airport-road"
+        },
+        {
+            "name": "Old Madras Road",
+            "url": "/old-madras-road"
+        },
+        {
+            "name": "Outer Ring Road",
+            "url": "/outer-ring-road"
+        },
+        {
+            "name": "West of Chord Road 2nd Stage , Nagapura",
+            "url": "/nagapura/west-of-chord-road-2nd-stage"
+        },
+        {
+            "name": "B Narayanapura , Mahadevapura",
+            "url": "/mahadevapura/b-narayanapura"
+        },
+        {
+            "name": "Kanakapura Main Road",
+            "url": "/kanakapura-main-road"
+        },
+        {
+            "name": "MG Road",
+            "url": "/mg-road"
+        },
+        {
+            "name": "Madivala",
+            "url": "/madivala"
+        },
+        {
+            "name": "Madivala , BTM Layout 1st Stage",
+            "url": "/btm-layout-1st-stage/madivala"
+        },
+        {
+            "name": "Magadi Road",
+            "url": "/magadi-road"
+        },
+        {
+            "name": "Mahadevapura",
+            "url": "/mahadevapura"
+        },
+        {
+            "name": "Malleshpalya , Kaggadasapura",
+            "url": "/kaggadasapura/malleshpalya"
+        },
+        {
+            "name": "Malleshwaram",
+            "url": "/malleshwaram"
+        },
+        {
+            "name": "Marathahalli",
+            "url": "/marathahalli"
+        },
+        {
+            "name": "Mathikere",
+            "url": "/mathikere"
+        },
+        {
+            "name": "Millers Road",
+            "url": "/millers-road"
+        },
+        {
+            "name": "Murugeshpalya",
+            "url": "/murugeshpalya"
+        },
+        {
+            "name": "Museum Road , Ashoknagar",
+            "url": "/ashoknagar/museum-road"
+        },
+        {
+            "name": "Mysore Road",
+            "url": "/mysore-road"
+        },
+        {
+            "name": "Old Madras Road",
+            "url": "/old-madras-road"
+        },
+        {
+            "name": "Vyalikaval , Malleshwaram",
+            "url": "/malleshwaram/vyalikaval"
+        },
+        {
+            "name": "Electronic City Phase 1 , Electronic City",
+            "url": "/electronic-city/electronic-city-phase-1"
+        },
+        {
+            "name": "JP Nagar Phase 1 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-1"
+        },
+        {
+            "name": "JP Nagar Phase 2 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-2"
+        },
+        {
+            "name": "JP Nagar Phase 3 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-3"
+        },
+        {
+            "name": "JP Nagar Phase 4 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-4"
+        },
+        {
+            "name": "JP Nagar Phase 5 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-5"
+        },
+        {
+            "name": "JP Nagar Phase 6 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-6"
+        },
+        {
+            "name": "JP Nagar Phase 7 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-7"
+        },
+        {
+            "name": "KR Puram",
+            "url": "/kr-puram"
+        },
+        {
+            "name": "Kadugodi , KR Puram",
+            "url": "/kr-puram/kadugodi"
+        },
+        {
+            "name": "Padmanabha Nagar",
+            "url": "/padmanabha-nagar"
+        },
+        {
+            "name": "Palace Road",
+            "url": "/palace-road"
+        },
+        {
+            "name": "Pattandur Agrahara , Whitefield",
+            "url": "/whitefield/pattandur-agrahara"
+        },
+        {
+            "name": "Puttanahalli , Yelehanka",
+            "url": "/yelehanka/puttanahalli"
+        },
+        {
+            "name": "Seegehalli , KR Puram",
+            "url": "/kr-puram/seegehalli"
+        },
+        {
+            "name": "TC Palya , Ramamurthy Nagar",
+            "url": "/ramamurthy-nagar/tc-palya"
+        },
+        {
+            "name": "Ashwath Nagar , HBR Layout",
+            "url": "/hbr-layout/ashwath-nagar"
+        },
+        {
+            "name": "B Narayanapura , Mahadevapura",
+            "url": "/mahadevapura/b-narayanapura"
+        },
+        {
+            "name": "Bapuji Nagar",
+            "url": "/bapuji-nagar"
+        },
+        {
+            "name": "Basaveshwara Nagar",
+            "url": "/basaveshwara-nagar"
+        },
+        {
+            "name": "Basaveshwara Nagar , Basaveshwara Nagar",
+            "url": "/basaveshwara-nagar/basaveshwara-nagar"
+        },
+        {
+            "name": "Byrasandra , C.V.Raman Nagar",
+            "url": "/c.v.raman-nagar/byrasandra"
+        },
+        {
+            "name": "C.V.Raman Nagar",
+            "url": "/c.v.raman-nagar"
+        },
+        {
+            "name": "Dooravani Nagar",
+            "url": "/dooravani-nagar"
+        },
+        {
+            "name": "HBR Layout , Kalyan Nagar",
+            "url": "/kalyan-nagar/hbr-layout"
+        },
+        {
+            "name": "Hoysala Nagar , Indiranagar",
+            "url": "/indiranagar/hoysala-nagar"
+        },
+        {
+            "name": "JP Nagar",
+            "url": "/jp-nagar"
+        },
+        {
+            "name": "JP Nagar Phase 1 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-1"
+        },
+        {
+            "name": "JP Nagar Phase 2 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-2"
+        },
+        {
+            "name": "JP Nagar Phase 3 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-3"
+        },
+        {
+            "name": "JP Nagar Phase 4 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-4"
+        },
+        {
+            "name": "JP Nagar Phase 5 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-5"
+        },
+        {
+            "name": "JP Nagar Phase 6 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-6"
+        },
+        {
+            "name": "JP Nagar Phase 7 , JP Nagar",
+            "url": "/jp-nagar/jp-nagar-phase-7"
+        },
+        {
+            "name": "Jarganahalli , JP Nagar",
+            "url": "/jp-nagar/jarganahalli"
+        },
+        {
+            "name": "Jeevan Bhima Nagar",
+            "url": "/jeevan-bhima-nagar"
+        },
+        {
+            "name": "Kalyan Nagar",
+            "url": "/kalyan-nagar"
+        },
+        {
+            "name": "Kasturi Nagar , Bennigana Halli",
+            "url": "/bennigana-halli/kasturi-nagar"
+        },
+        {
+            "name": "Nagavarapalya , C.V.Raman Nagar",
+            "url": "/c.v.raman-nagar/nagavarapalya"
+        },
+        {
+            "name": "Nagawara",
+            "url": "/nagawara"
+        },
+        {
+            "name": "Nandi Durga Road Extension , Jayamahal",
+            "url": "/jayamahal/nandi-durga-road-extension"
+        },
+        {
+            "name": "New BEL Road",
+            "url": "/new-bel-road"
+        },
+        {
+            "name": "Padmanabha Nagar",
+            "url": "/padmanabha-nagar"
+        },
+        {
+            "name": "RT Nagar",
+            "url": "/rt-nagar"
+        },
+        {
+            "name": "Rajarajeshwari Nagar",
+            "url": "/rajarajeshwari-nagar"
+        },
+        {
+            "name": "Ramamurthy Nagar",
+            "url": "/ramamurthy-nagar"
+        },
+        {
+            "name": "Rammurthy Nagar",
+            "url": "/rammurthy-nagar"
+        },
+        {
+            "name": "Sadashivnagar , Armane Nagar",
+            "url": "/armane-nagar/sadashivnagar"
+        },
+        {
+            "name": "Sahakara Nagar",
+            "url": "/sahakara-nagar"
+        },
+        {
+            "name": "Shanti Nagar",
+            "url": "/shanti-nagar"
+        },
+        {
+            "name": "TC Palya , Ramamurthy Nagar",
+            "url": "/ramamurthy-nagar/tc-palya"
+        },
+        {
+            "name": "Vasanth Nagar",
+            "url": "/vasanth-nagar"
+        },
+        {
+            "name": "Vignan Nagar",
+            "url": "/vignan-nagar"
+        },
+        {
+            "name": "Vignan Nagar , Kartik Nagar",
+            "url": "/kartik-nagar/vignan-nagar"
+        },
+        {
+            "name": "Vijay Nagar , Whitefield",
+            "url": "/whitefield/vijay-nagar"
+        },
+        {
+            "name": "West of Chord Road 2nd Stage , Nagapura",
+            "url": "/nagapura/west-of-chord-road-2nd-stage"
+        },
+        {
+            "name": "Yelahanka New Town",
+            "url": "/yelahanka-new-town"
+        },
+        {
+            "name": "Gandhibazar , Basavangudi",
+            "url": "/basavangudi/gandhibazar"
+        },
+        {
+            "name": "Gandhinagar",
+            "url": "/gandhinagar"
+        },
+        {
+            "name": "Gandhinagar , Yelehanka",
+            "url": "/yelehanka/gandhinagar"
+        },
+        {
+            "name": "Wilson Garden",
+            "url": "/wilson-garden"
+        },
+        {
+            "name": "Cox Town",
+            "url": "/cox-town"
+        },
+        {
+            "name": "Frazer Town",
+            "url": "/frazer-town"
+        },
+        {
+            "name": "Jayanagar 4th T Block , Jayanagar",
+            "url": "/jayanagar/jayanagar-4th-t-block"
+        },
+        {
+            "name": "Kengeri Satellite Town",
+            "url": "/kengeri-satellite-town"
+        },
+        {
+            "name": "Langford Town",
+            "url": "/langford-town"
+        },
+        {
+            "name": "Richards Town",
+            "url": "/richards-town"
+        },
+        {
+            "name": "Richmond Town",
+            "url": "/richmond-town"
+        },
+        {
+            "name": "TC Palya , Ramamurthy Nagar",
+            "url": "/ramamurthy-nagar/tc-palya"
+        },
+        {
+            "name": "Tavarkere",
+            "url": "/tavarkere"
+        },
+        {
+            "name": "Tavarkere , Sadduguntepalya",
+            "url": "/sadduguntepalya/tavarkere"
+        },
+        {
+            "name": "Thippasandra",
+            "url": "/thippasandra"
+        },
+        {
+            "name": "Thubarahalli , Whitefield",
+            "url": "/whitefield/thubarahalli"
+        },
+        {
+            "name": "Tumkur Road",
+            "url": "/tumkur-road"
+        },
+        {
+            "name": "Wheeler Road , Frazer Town",
+            "url": "/frazer-town/wheeler-road"
+        },
+        {
+            "name": "Yelahanka New Town",
+            "url": "/yelahanka-new-town"
+        },
+        {
+            "name": "BSK II Stg , Banashankari",
+            "url": "/banashankari/bsk-ii-stg"
+        },
+        {
+            "name": "BTM 2nd Stage , BTM Layout 2nd Stage",
+            "url": "/btm-layout-2nd-stage/btm-2nd-stage"
+        },
+        {
+            "name": "BTM Layout 1st Stage , BTM",
+            "url": "/btm/btm-layout-1st-stage"
+        },
+        {
+            "name": "BTM Layout 2nd Stage , BTM",
+            "url": "/btm/btm-layout-2nd-stage"
+        },
+        {
+            "name": "Banashankari 3rd Stage , Banashankari",
+            "url": "/banashankari/banashankari-3rd-stage"
+        },
+        {
+            "name": "Church Street",
+            "url": "/church-street"
+        },
+        {
+            "name": "Commercial Street",
+            "url": "/commercial-street"
+        },
+        {
+            "name": "HSR Layout Sector 1 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-1"
+        },
+        {
+            "name": "HSR Layout Sector 2 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-2"
+        },
+        {
+            "name": "HSR Layout Sector 3 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-3"
+        },
+        {
+            "name": "HSR Layout Sector 4 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-4"
+        },
+        {
+            "name": "HSR Layout Sector 6 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-6"
+        },
+        {
+            "name": "HSR Layout Sector 7 , HSR Layout",
+            "url": "/hsr-layout/hsr-layout-sector-7"
+        },
+        {
+            "name": "Kengeri Satellite Town",
+            "url": "/kengeri-satellite-town"
+        },
+        {
+            "name": "Madivala , BTM Layout 1st Stage",
+            "url": "/btm-layout-1st-stage/madivala"
+        },
+        {
+            "name": "Sadashivnagar",
+            "url": "/sadashivnagar"
+        },
+        {
+            "name": "Sadashivnagar , Armane Nagar",
+            "url": "/armane-nagar/sadashivnagar"
+        },
+        {
+            "name": "Sahakara Nagar",
+            "url": "/sahakara-nagar"
+        },
+        {
+            "name": "Sanjaynagar",
+            "url": "/sanjaynagar"
+        },
+        {
+            "name": "Sarjapur Road",
+            "url": "/sarjapur-road"
+        },
+        {
+            "name": "Seegehalli , KR Puram",
+            "url": "/kr-puram/seegehalli"
+        },
+        {
+            "name": "Shanti Nagar",
+            "url": "/shanti-nagar"
+        },
+        {
+            "name": "Shivajinagar",
+            "url": "/shivajinagar"
+        },
+        {
+            "name": "St.Marks Road",
+            "url": "/st.marks-road"
+        },
+        {
+            "name": "Tavarkere , Sadduguntepalya",
+            "url": "/sadduguntepalya/tavarkere"
+        },
+        {
+            "name": "West of Chord Road 2nd Stage , Nagapura",
+            "url": "/nagapura/west-of-chord-road-2nd-stage"
+        },
+        {
+            "name": "CMH Road , Indiranagar",
+            "url": "/indiranagar/cmh-road"
+        },
+        {
+            "name": "Crescent Road",
+            "url": "/crescent-road"
+        },
+        {
+            "name": "Cunningham Road",
+            "url": "/cunningham-road"
+        },
+        {
+            "name": "Infantry Road",
+            "url": "/infantry-road"
+        },
+        {
+            "name": "JC Road",
+            "url": "/jc-road"
+        },
+        {
+            "name": "K.H(Double Road)",
+            "url": "/k.h(double-road)"
+        },
+        {
+            "name": "Kanakapura Main Road",
+            "url": "/kanakapura-main-road"
+        },
+        {
+            "name": "Lady Curzon Road",
+            "url": "/lady-curzon-road"
+        },
+        {
+            "name": "Lavelle Road",
+            "url": "/lavelle-road"
+        },
+        {
+            "name": "MG Road",
+            "url": "/mg-road"
+        },
+        {
+            "name": "Magadi Road",
+            "url": "/magadi-road"
+        },
+        {
+            "name": "Millers Road",
+            "url": "/millers-road"
+        },
+        {
+            "name": "Museum Road , Ashoknagar",
+            "url": "/ashoknagar/museum-road"
+        },
+        {
+            "name": "Mysore Road",
+            "url": "/mysore-road"
+        },
+        {
+            "name": "Nandi Durga Road Extension , Jayamahal",
+            "url": "/jayamahal/nandi-durga-road-extension"
+        },
+        {
+            "name": "New BEL Road",
+            "url": "/new-bel-road"
+        },
+        {
+            "name": "Old Airport Road",
+            "url": "/old-airport-road"
+        },
+        {
+            "name": "Old Madras Road",
+            "url": "/old-madras-road"
+        },
+        {
+            "name": "Outer Ring Road",
+            "url": "/outer-ring-road"
+        },
+        {
+            "name": "Palace Road",
+            "url": "/palace-road"
+        },
+        {
+            "name": "RT Nagar",
+            "url": "/rt-nagar"
+        },
+        {
+            "name": "Race Course Road",
+            "url": "/race-course-road"
+        },
+        {
+            "name": "RajajiNagar , Rajajinagar",
+            "url": "/rajajinagar/rajajinagar"
+        },
+        {
+            "name": "Rajajinagar",
+            "url": "/rajajinagar"
+        },
+        {
+            "name": "Rajarajeshwari Nagar",
+            "url": "/rajarajeshwari-nagar"
+        },
+        {
+            "name": "Ramamurthy Nagar",
+            "url": "/ramamurthy-nagar"
+        },
+        {
+            "name": "Rammurthy Nagar",
+            "url": "/rammurthy-nagar"
+        },
+        {
+            "name": "Residency Road",
+            "url": "/residency-road"
+        },
+        {
+            "name": "Richards Town",
+            "url": "/richards-town"
+        },
+        {
+            "name": "Richmond Road",
+            "url": "/richmond-road"
+        },
+        {
+            "name": "Richmond Town",
+            "url": "/richmond-town"
+        },
+        {
+            "name": "Sarjapur Road",
+            "url": "/sarjapur-road"
+        },
+        {
+            "name": "St.Marks Road",
+            "url": "/st.marks-road"
+        },
+        {
+            "name": "TC Palya , Ramamurthy Nagar",
+            "url": "/ramamurthy-nagar/tc-palya"
+        },
+        {
+            "name": "Tumkur Road",
+            "url": "/tumkur-road"
+        },
+        {
+            "name": "West of Chord Road 2nd Stage , Nagapura",
+            "url": "/nagapura/west-of-chord-road-2nd-stage"
+        },
+        {
+            "name": "Wheeler Road , Frazer Town",
+            "url": "/frazer-town/wheeler-road"
+        },
+        {
+            "name": "Varthur",
+            "url": "/varthur"
+        },
+        {
+            "name": "Vasanth Nagar",
+            "url": "/vasanth-nagar"
+        },
+        {
+            "name": "Vidyaranyapura",
+            "url": "/vidyaranyapura"
+        },
+        {
+            "name": "Vignan Nagar",
+            "url": "/vignan-nagar"
+        },
+        {
+            "name": "Vignan Nagar , Kartik Nagar",
+            "url": "/kartik-nagar/vignan-nagar"
+        },
+        {
+            "name": "Vijay Nagar , Whitefield",
+            "url": "/whitefield/vijay-nagar"
+        },
+        {
+            "name": "Vijaynagar , Whitefield",
+            "url": "/whitefield/vijaynagar"
+        },
+        {
+            "name": "Viveknagar",
+            "url": "/viveknagar"
+        },
+        {
+            "name": "Vyalikaval , Malleshwaram",
+            "url": "/malleshwaram/vyalikaval"
+        },
+        {
+            "name": "Ulsoor",
+            "url": "/ulsoor"
+        },
+        {
+            "name": "Uttarahalli",
+            "url": "/uttarahalli"
+        },
+        {
+            "name": "EPIP Zone , Whitefield",
+            "url": "/whitefield/epip-zone"
+        },
+        {
+            "name": "ITPL , Whitefield",
+            "url": "/whitefield/itpl"
+        },
+        {
+            "name": "Pattandur Agrahara , Whitefield",
+            "url": "/whitefield/pattandur-agrahara"
+        },
+        {
+            "name": "Thubarahalli , Whitefield",
+            "url": "/whitefield/thubarahalli"
+        },
+        {
+            "name": "Vijay Nagar , Whitefield",
+            "url": "/whitefield/vijay-nagar"
+        },
+        {
+            "name": "Vijaynagar , Whitefield",
+            "url": "/whitefield/vijaynagar"
+        },
+        {
+            "name": "West of Chord Road 2nd Stage , Nagapura",
+            "url": "/nagapura/west-of-chord-road-2nd-stage"
+        },
+        {
+            "name": "Wheeler Road , Frazer Town",
+            "url": "/frazer-town/wheeler-road"
+        },
+        {
+            "name": "Whitefield",
+            "url": "/whitefield"
+        },
+        {
+            "name": "Wilson Garden",
+            "url": "/wilson-garden"
+        },
+        {
+            "name": "EPIP Zone , Whitefield",
+            "url": "/whitefield/epip-zone"
+        },
+        {
+            "name": "Gandhinagar , Yelehanka",
+            "url": "/yelehanka/gandhinagar"
+        },
+        {
+            "name": "Puttanahalli , Yelehanka",
+            "url": "/yelehanka/puttanahalli"
+        },
+        {
+            "name": "Yelahanka New Town",
+            "url": "/yelahanka-new-town"
+        },
+        {
+            "name": "Yelehanka",
+            "url": "/yelehanka"
+        },
+        {
+            "name": "Yeshwantpur",
+            "url": "/yeshwantpur"
+        }
+    ]
+}
